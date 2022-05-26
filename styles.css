@@ -36,3 +36,58 @@ img {
 a {
     color: #470023;
 }
+
+
+.ingredients {
+
+    line-height: 1.5rem;
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    background-color: #ffcccc;
+    width: 350px;
+    padding-right: 10px;
+    border: 5px solid #ffcccc;
+}
+
+.smoothie {
+
+    line-height: 1.5rem;
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    background-color: #ffcccc;
+    width: 500px;
+    padding-right: 50px;
+    border: 5px solid #ffcccc;
+}
+
+.instructions {
+
+    line-height: 1.5rem;
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    background-color: #ffcccc;
+    width: 400px;
+    padding-right: 50px;
+    border: 5px solid #ffcccc;
+}
+
+.pancakes {
+    line-height: 1.5rem;
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    background-color: #ffcccc;
+    width: 500px;
+    padding-right: 50px;
+    border: 5px solid #ffcccc;
+}
+
+
+
+.oatmeal-img {
+    margin: 0;
+}
+
